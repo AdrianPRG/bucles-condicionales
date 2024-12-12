@@ -1,0 +1,24 @@
+.textoweb {
+    font-family: 'Times New Roman', Times, serif;
+    color:aliceblue;
+}
+
+.colorheader {
+    background-color: #3f3935;
+    color: #ecf0f1;
+}
+
+.colorfooter {
+    background-color: #474441;
+    color: #ecf0f1;
+}
+
+.colorCuerpo {
+    background-color:#a18e7f
+}
+
+a{
+    font-size:25px;;
+    font-family: 'Georgia', 'Palatino Linotype', 'Palatino', serif;
+    color: #ecf0f1;
+}

@@ -1,0 +1,23 @@
+.textoweb {
+    font-family: Verdana, sans-serif; 
+    color: #d1f0ff; 
+}
+
+.colorfooter {
+    background-color: #313169;
+    color: #ecf0f1;
+}
+
+.colorheader {
+    background-color: #1a1a2e; 
+}
+
+.colorCuerpo {
+    background-color: #16213e; 
+}
+
+a{
+    font-size:25px;;
+    font-family: 'Segoe UI', Helvetica, Arial, Verdana, sans-serif;
+    color: #ecf0f1;
+}
